@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "649638593150",
+    "project_id": "myweather-ae080",
+    "storage_bucket": "myweather-ae080.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649638593150:android:e1ff0dd9f7b376d7308e2f",
+        "android_client_info": {
+          "package_name": "com.example.myweather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649638593150-n2jni3oohmgs6ohd72hc65t500j7lfvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfoXHzpQAGcL-w5MHh10pCFbRxc8afbu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649638593150-n2jni3oohmgs6ohd72hc65t500j7lfvs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "649638593150-gm0nfglnu6jvlqnivdb3u65bm9is66af.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myweather.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

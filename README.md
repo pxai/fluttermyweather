@@ -1,6 +1,13 @@
 # myweather
 
-A new Flutter project.
+A new Flutter project with Firebase
+
+# Steps
+
+https://firebase.google.com/docs/flutter/setup?platform=ios
+
+firebase login
+fireflutter configure
 
 ## Getting Started
 
